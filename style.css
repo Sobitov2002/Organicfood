@@ -6,7 +6,7 @@ nav{
 }
 .nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between  ;
 }
 .nav_links > .nav_link{
     display: flex; 
@@ -37,7 +37,7 @@ nav{
     margin-right: 0;
 }
 .logo{
-    margin-top: 53px;
+    margin-top: 53px;   
 }
 .logo > img {
  width: 44px;
